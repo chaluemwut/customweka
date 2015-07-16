@@ -1,0 +1,10 @@
+@RELATION iris
+
+@ATTRIBUTE sepallength	REAL
+@ATTRIBUTE sepalwidth 	REAL
+@ATTRIBUTE petallength 	REAL
+@ATTRIBUTE petalwidth	REAL
+@ATTRIBUTE class 	{Iris-setosa,Iris-versicolor}
+
+@DATA
+5.0,3.3,1.4,0.2,Iris-setosa
